@@ -1,12 +1,15 @@
-- 👋 Hi, I’m @Bharath Kumar Pokkalla
-- 👀 I’m interested in ...Data Analyst
-- 🌱 I’m currently learning ...B.Tech (Cse specialization in Cloud Computing)
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...pokkalabharath@gmail.com
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+# 💫 About Me:
+ 👋 Hi, I'm Pokkalla Bharath Kumar<br><br>📊 Aspiring Data Analyst | SQL | Excel | Power BI | Python | Data Visualization<br><br>I'm a **Computer Science Engineering graduate with a specialization in Cloud Computing**, passionate about turning raw data into meaningful insights and business decisions.<br><br>I have a strong foundation in **SQL, Excel, Power BI, Python, Pandas, NumPy, and data visualization**, with hands-on experience building dashboards, analyzing datasets, and creating data-driven reports.<br><br>Currently, I work as a **CRM Executive at Akshita Infra** and have experience with **CRM operations, data management, reporting, and lead management**. I am also gaining practical exposure to **Digital Marketing, Google Ads, Meta Ads, and Web Design** through my Digital Marketing internship.<br><br> 🚀 What I Do<br><br>* 📊 Analyze and interpret business data<br>* 🧹 Clean, transform, and organize datasets<br>* 🗄️ Write SQL queries for data analysis<br>* 📈 Build interactive dashboards using Power BI<br>* 📑 Create analytical reports using Excel<br>* 🐍 Perform data analysis using Python and Pandas<br>* 📉 Create meaningful data visualizations<br>* 💡 Convert data into actionable business insights<br><br>🛠️ Technical Skills<br><br>Data Analytics: SQL, Excel, Power BI, Python<br>Python Libraries: Pandas, NumPy, Matplotlib, Seaborn<br>Tools: SQL Server Management Studio, Tableau, GitHub, VS Code<br>Other: CRM, Data Management, Reporting, Google Ads, Meta Ads, Web Design<br><br> 📂 Featured Projects<br><br>🔹 Mobile Sales Data Analysis<br>Data analysis and interactive dashboard development using **Excel, SQL Server, and Power BI**.<br><br>🔹 Product Analysis Dashboard<br>Analyzed product-level data and created an interactive **Power BI dashboard** to identify important business insights.<br><br>🔹 Stock Market Analysis & Visualization**<br>Final-year project focused on analyzing and visualizing stock market data using data science tools.<br><br> 🎯 Career Goal<br><br>I am actively looking for opportunities as a **Data Analyst / Business Analyst / BI Analyst**, where I can apply my analytical skills, solve real-world business problems, and continuously grow as a data professional.<br><br>### 🤝 Let's Connect<br><br>📧 Email: pokkalabharath@gmail.com<br>💼 LinkedIn: https://www.linkedin.com/in/pokkalla-bharath-kumar/<br>💻 GitHub: https://github.com/bharath123119<br><br>⭐ Feel free to explore my repositories and projects!<br>
 
-<!---
-bharath123119/bharath123119 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
+# 💻 Tech Stack:
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Meta](https://img.shields.io/badge/Meta-%230467DF.svg?style=for-the-badge&logo=Meta&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=POKKALLA BHARATH KUMAR&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://streak-stats.demolab.com/?user=POKKALLA BHARATH KUMAR&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=POKKALLA BHARATH KUMAR&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+---
+[![](https://komarev.com/ghpvc/?username=POKKALLA BHARATH KUMAR&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
